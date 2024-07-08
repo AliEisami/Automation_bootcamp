@@ -1,0 +1,8 @@
+{
+  "browser" : "Chrome",
+  "url" : "https://www.youtube.com/",
+  "email" : "qautomation5tech@gmail.com",
+  "password" : "@QAutomation5",
+  "wrong_password" : "Wrong@password",
+  "search_text" : "QA Automation for beginners"
+}
